@@ -6,7 +6,7 @@ README
 Consideraciones 
 
 -El ejercicio se realizó con el gestor de base de datos MYSQL y con el servidor local de xampp
--Se debe crear una base de datos con el nombre “” y luego importarla
+-Se debe crear una base de datos con el nombre “Konecta.sql” y luego importarla
 -Se hizo uso de las librerías Bootstrap 4 y sweet alert 2 para gestionar la visualización del ejercicio y las alertas
 -La conexión que se utilizó fue PDO donde el host es localhos, usuario es root y la contraseña es  “”.
 -Se utilizó Bootstrap mediante cdn, por lo tanto se requiere de una conexión a internet.
